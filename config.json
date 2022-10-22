@@ -1,0 +1,7 @@
+{
+  "instancesDB": "json",
+  "instances": [
+    { "hostname": "[first_printer_ip_address]", "port": 7125 },
+    { "hostname": "[second_printer_ip_address]", "port": 7125 }
+  ]
+}
