@@ -2,7 +2,7 @@
 
 ## Setup
 
-1. Follow the instruction on this link below
+1. Follow the instruction on this link below\
 [Mainsail docker guidelines](https://docs.mainsail.xyz/setup/docker)
 2. Open docker desktop and add the absolute path of your config.json file to share resource
 
