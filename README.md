@@ -28,6 +28,8 @@ https://www.klipper3d.org/SDCard_Updates.html</br>
 
 This way is simpler, just download the pre-compiled bin file from this [link](https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3/blob/master/firmware/V3.0/Klipper/README.md)
 
+**_NOTE:_** Remember to rename the file to "firmware.bin" or else it won't be flashed
+
 ### 2.3. Common issues
 1. ADC out of range
 
