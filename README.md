@@ -8,7 +8,7 @@ TBD
 
 ### 2.1. Required hardware
 
-- Raspberry Pi ($\ge$ V2)
+- Raspberry Pi (>= V2)
 - SKR mini E3 V3
 
 ### 2.2. Setup
